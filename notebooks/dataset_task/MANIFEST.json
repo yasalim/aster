@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-09-09T05:23:52+00:00",
+  "date_from": "2024-09-01",
+  "date_to": "2026-09-08",
+  "market_from": "2024-09-01",
+  "money_scale": 1.0,
+  "salt_tail": "9-08",
+  "branch_codes": "hashed",
+  "source": "assistant schema (Aster DWH)",
+  "files": {
+    "evaluations": {
+      "file": "evaluations.csv.gz",
+      "rows": 164400,
+      "size_mb": 17.46
+    },
+    "car_outcomes": {
+      "file": "car_outcomes.csv",
+      "rows": 27426,
+      "size_mb": 9.86
+    },
+    "stage_times": {
+      "file": "stage_times.csv.gz",
+      "rows": 176674,
+      "size_mb": 5.21
+    },
+    "pricing_policy": {
+      "file": "pricing_policy.csv",
+      "rows": 8,
+      "size_mb": 0.0
+    },
+    "market_kolesa": {
+      "file": "market_kolesa.csv.gz",
+      "rows": 1137602,
+      "size_mb": 16.67
+    },
+    "tech_inspection": {
+      "file": "tech_inspection.csv.gz",
+      "rows": 1497772,
+      "size_mb": 13.79
+    }
+  }
+}

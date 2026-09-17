@@ -1,0 +1,30 @@
+{
+  "HistGradientBoosting": {
+    "coverage_pct": 38.32,
+    "median_width_pct": 19.85,
+    "median_mid_ape_pct": 12.42,
+    "quarter_gm2_delta_m_kzt": -191.6,
+    "quarter_loss_deals_pct": 26.68
+  },
+  "CatBoost": {
+    "coverage_pct": 42.05,
+    "median_width_pct": 20.24,
+    "median_mid_ape_pct": 11.96,
+    "quarter_gm2_delta_m_kzt": -119.2,
+    "quarter_loss_deals_pct": 24.23
+  },
+  "LightGBM": {
+    "coverage_pct": 42.84,
+    "median_width_pct": 21.22,
+    "median_mid_ape_pct": 11.93,
+    "quarter_gm2_delta_m_kzt": -2.6,
+    "quarter_loss_deals_pct": 22.56
+  },
+  "XGBoost": {
+    "coverage_pct": 37.42,
+    "median_width_pct": 19.88,
+    "median_mid_ape_pct": 13.01,
+    "quarter_gm2_delta_m_kzt": -366.9,
+    "quarter_loss_deals_pct": 29.37
+  }
+}
